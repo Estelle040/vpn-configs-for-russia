@@ -37,15 +37,15 @@
 
 Как переименовал .txt файлы:
 
-`Vless-Reality-Black-Lists-Rus-Cable.txt` ........➡️ `BLACK_VLESS_RUS.txt`    --->   обновилась ссылка!
+`Vless-Reality-Black-Lists-Rus-Cable.txt` ........➡️ `BLACK_VLESS_RUS.txt`    -->   обновилась ссылка!
 
-`Shadowsocks-Hysteria2-Black-Lists-Rus-Cable.txt` ➡️ `BLACK_SS+All_RUS.txt`   --->   обновилась ссылка!
+`Shadowsocks-Hysteria2-Black-Lists-Rus-Cable.txt` ➡️ `BLACK_SS+All_RUS.txt`   -->   обновилась ссылка!
 
 `Vless-Reality-White-Lists-Rus-Cable.txt` ........➡️ `Оставил такое же название`
 
 `Vless-Reality-White-Lists-Rus-Mobile.txt` .......➡️ `Оставил такое же название`
 
-`White_Lists_Full_Rus.txt` .......................➡️ `WHITE_DELETED.txt`
+`White_Lists_Full_Rus.txt` .......................➡️ `WHITE_DELETED.txt`      -->   обновилась ссылка!
 
 ```
 
