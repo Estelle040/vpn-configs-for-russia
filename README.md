@@ -25,9 +25,22 @@
 
 ---
 
-### **VLESS:** ➝ [BLACK_VLESS_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt)
+### **VLESS для телефона (максимум 100 конфигов в подписке):** ➝ [BLACK_VLESS_RUS_mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt)
 
-  *Подписка VLESS для черных списков.*
+  *Сжатая телефонная подписка VLESS для черных списков.*
+  
+  *Включите автообновление у себя в VPN-клиенте!*
+
+<details>
+<summary> QR-код </summary>
+
+  ![BLACK_VLESS_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/BLACK_VLESS_RUS-QR.png)
+
+</details>
+
+### **VLESS (все конфиги):** ➝ [BLACK_VLESS_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt)
+
+  *Полная подписка VLESS для черных списков.*
   
   *Включите автообновление у себя в VPN-клиенте!*
 
@@ -64,7 +77,7 @@
 
 ---
 
-### CIDR-ПОДПИСКА ПОЛНАЯ ⚪: 
+### CIDR-ПОДПИСКА для телефона (максимум 100 конфигов в подписке) ⚪: 
 
 ### [Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
 
@@ -75,14 +88,30 @@
 
 </details>
 
-*Эта подписка содержит все известные белые подсети от разных хостеров. Обходит CIDR-блокировки по IP. Протокол VLESS.*
+*Эта сжатая CIDR-подписка для телефонов, содержит 100 самых быстрых конфигов из полной CIDR-подписки. Обходит CIDR-блокировки по IP. Протокол VLESS.*
 
 *Включите автообновление у себя в VPN-клиенте!*
 
 
-### CIDR-ПОДПИСКА ТОЛЬКО С ХОСТЕРАМИ: VK, YANDEX, CDNVIDEO ⚪:
+### CIDR-ПОДПИСКА полная (все конфиги) ⚪: 
 
-### [WL_CIDR_RU_CHECKED.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WL_CIDR_RU_CHECKED.txt)
+### [WHITE-CIDR-RU-all.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt)
+
+<details>
+<summary> QR-код </summary>
+
+  ![WHITE_VLESS_MOBILE_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Mobile-QR.png)
+
+</details>
+
+*Это полная CIDR-подписка для Белых Списков. Содержит все известные белые подсети от разных хостеров. Обходит CIDR-блокировки по IP. Протокол VLESS.*
+
+*Включите автообновление у себя в VPN-клиенте!*
+
+
+### CIDR-ПОДПИСКА только с хостерами: VK, YANDEX, CDNVIDEO, Beeline ⚪:
+
+### [WHITE-CIDR-RU-checked.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt)
 
 <details>
 <summary> QR-код </summary>
@@ -91,14 +120,14 @@
 
 </details>
 
-*Это сокращенная версия полной CIDR-подписки. В этой подписке только зарекомендовавшие себя белые подсети от: VK, YANDEX, CDNVIDEO. Обходит CIDR-блокировки по IP. Протокол VLESS.*
+*Это сокращенная версия полной CIDR-подписки. В этой подписке только зарекомендовавшие себя белые подсети от: VK, YANDEX, CDNVIDEO, Beeline. Обходит CIDR-блокировки по IP. Протокол VLESS.*
 
 *Включите автообновление у себя в VPN-клиенте!*
 
 
 ### SNI-ПОДПИСКА ⚪: 
 
-### [Vless-Reality-White-Lists-Rus-Cable.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Cable.txt)
+### [WHITE-SNI-RU-all.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt)
 
 <details>
 <summary> QR-код </summary>
